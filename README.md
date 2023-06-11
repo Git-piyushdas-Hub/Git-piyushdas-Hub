@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-A CS undergraduate in 3rd year at Vellore Institute Technology, Bhopal Campus.<br>Currently working on my domain web devlopment with the help of an externship on MERN Stack.<br>Strengthening my DSA and soft skills along with web to crack interviews and hopefully get hired 🤞.<br>About my self - Nothing to see here...
+A CS undergraduate in 3rd year at Vellore Institute Technology, Bhopal Campus.<br>Currently working on my domain web devlopment with the help of an externship on MERN Stack.<br>Strengthening my DSA and soft skills along with web to crack interviews and hopefully get hired 🤞.<br>About my self - Not much but I like to read light novels and play sports...
 
 
 # 💻 Tech Stack:
